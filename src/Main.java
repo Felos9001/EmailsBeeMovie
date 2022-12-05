@@ -4584,7 +4584,7 @@ public class Main {
              String recipient = "";
 
              // email ID of Sender.
-             String sender = "";
+             String sender = " ";
 
              // host of Sender
              String host = "smtp-relay.gmail.com";
