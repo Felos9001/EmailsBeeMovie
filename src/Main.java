@@ -4581,10 +4581,10 @@ public class Main {
 
          for (int i = 0; i < 1000; i++) {
              // email ID of Recipient.
-             String recipient = "nsedano23373@columbushs.com";
+             String recipient = "";
 
              // email ID of Sender.
-             String sender = "fsolorzano23378@columbushs.com";
+             String sender = "";
 
              // using host as localhost
              String host = "smtp-relay.gmail.com";
